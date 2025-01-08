@@ -1,0 +1,18 @@
+body{
+    
+    text-align: center;
+    background-image: url('pexels-tirachard-kumtanom-112571-733852.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+legend{
+    padding:50px;
+}
+
+form input{
+    padding: 5px;
+}
+
+form label{
+    padding: 10px;
+}
